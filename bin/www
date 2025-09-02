@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+const http = require('node:http')
+const app = require('../src/app')
